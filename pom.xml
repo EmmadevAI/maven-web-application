@@ -99,13 +99,13 @@
 
   <distributionManagement>
       <repository>
-        <id>nexus</id>
+        <id>nexus-releases</id>
         <name>Landmark Technologies Releases Nexus Repository</name>
         <url>http://3.147.83.103:8181/team03/repository/tesla-jk-releases/</url>
       </repository>
       
       <snapshotRepository>
-        <id>nexus</id>
+        <id>nexus-snapshot</id>
         <name>Landmark Technologies Snapshot Nexus Repository </name>
         <url>http://3.147.83.103:8181/team03/repository/tesla-jk-snapshot/</url>
       </snapshotRepository>
